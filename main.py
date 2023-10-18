@@ -1,9 +1,9 @@
 import requests
 from datetime import datetime
 
-API_KEY = "da464e26b7cc72cad853865f09d44bea"
-APP_ID = "1c2fecc1"
-TOKEN = "SKJDBCadads78s9BVJDSBVEokkm32FDSCVJSKCVASH"
+API_KEY = "-"
+APP_ID = "-"
+TOKEN = "-"
 
 EXCERCISE_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
 SHEETY_ENDPOINT = "https://api.sheety.co/ef759fee6bd4cbaa47451ecacc177e48/myWorkouts/workouts"
